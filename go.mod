@@ -1,4 +1,4 @@
-module github.com/jhndacoder/blochat-pkv
+module github.com/code-Crammers/blochat-pkv
 
 go 1.19
 
